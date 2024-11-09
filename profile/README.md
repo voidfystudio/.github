@@ -8,7 +8,7 @@ At Voidfy Studio, we thrive on transforming voids into vibrant digital landscape
 
 Here’s our service catalog, which sets us apart:
 
-**Wix Velo Development**: We’re the architects behind Wix’s secret passages. With Velo, we craft dynamic websites that dance to your tune. From e-commerce to portfolios, we make your online presence sing. We are one of India's most successful agencies which excel at this service at an affordable price of a freelancer.
+**Wix Velo Development**: We’re the wizards behind Wix’s hidden gems. With Velo, we conjure dynamic websites that groove to your vibe. Whether it’s e-commerce or portfolios, your online presence will be lit. We’re one of India’s top agencies, smashing it with stellar service at a freelancer’s price. _The only agency with all the custom Velo solutions you’ll ever need._
 
 **Custom Development**: We don’t just build software; we sculpt it to fit your unique needs. From full stack applications built on popular front end and robust backend systems, our code is the brushstroke that brings your vision to life.
 
@@ -30,4 +30,4 @@ Here’s our service catalog, which sets us apart:
 
 **Google Cloud Firebase Expertise**: We harness the power of Google Cloud Firebase to build and manage robust, real-time applications. From user authentication to cloud storage, we’ve got the expertise to elevate your projects.
 
-Our Journey: Born from nothingness, we sprinted from zero to fifty client projects in under two months. Our clients? Partners in this cosmic dance. And our promise? ***To continue pushing boundaries, innovating relentlessly, and delivering excellence in every project.***
+Our Journey: Born from nothingness, we sprinted from zero to fifty client projects in under two months. Our clients? Partners in this cosmic dance. And our promise? **_To continue pushing boundaries, innovating relentlessly, and delivering excellence in every project._**
