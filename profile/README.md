@@ -1,6 +1,6 @@
-### Voidfy Studio LLP
+# Voidfy Studio LLP
 
-#### Crafting Digital Solutions from the Abyss
+## Crafting Digital Solutions from the Abyss
 
 Welcome to **Voidfy Studio**, where the void becomes a canvas, and code paints the stars. 🌌✨
 
